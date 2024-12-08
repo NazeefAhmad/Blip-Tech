@@ -15,7 +15,8 @@ const Product = () => {
   const [isLoading, setIsLoading] = useState(true);
 
   const API_KEY = import.meta.env.VITE_RAWG_API_KEY;
-  const API_URL = `https://api.rawg.io/api/games/${id}?key=${API_KEY}`;
+
+  const API_URL = `https://api.rawg.io/api/games/${id}?key=${'2627e9d65b584424b8b3de3f82bd04ef'}`;
 
   const getGameInfo = async () => {
     try {

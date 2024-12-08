@@ -21,6 +21,7 @@ function App() {
         draggable
         pauseOnHover
         theme="dark"
+        
       />
       <Footer />
     </div>

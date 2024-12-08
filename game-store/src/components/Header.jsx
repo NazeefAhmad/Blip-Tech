@@ -18,7 +18,7 @@ const Header = () => {
     <header className="bg-[#0f172a]  shadow-md text-white relative ">
       <div className="mx-auto h-24 flex items-center gap-5 justify-between px-8 max-w-[1280px]">
         <NavLink to="/">
-          <h1 className=" text-xl lg:text-3xl font-semibold">VAPOUR</h1>
+          <h1 className=" text-xl lg:text-3xl font-semibold">Blip Tech - An E commerce Gaming Site</h1>
         </NavLink>
         <div
           className="flex flex-col items-center justify-evenly border-2 border-solid w-[40px] h-[30px] rounded-lg cursor-pointer lg:hidden"
