@@ -15,6 +15,7 @@ This project is a **Public-Based Learning (PBL)** for both **Web Technology** an
 - **Pragati Upadhyay** (2200290110121)
 - **Nazeef Ahmad** (2200290110115)
 - **Arunabh Bhattacharya** (2300290119003)
+- **Nakul Sonkar** (2200290110112)
 
 Made with love by **Team Black Pearl** ❤️.
 
