@@ -1,0 +1,22 @@
+{
+  "name": "blip-tech",
+  "version": "1.0.0",
+  "description": "An E-Commerce Site for Gaming",
+  "main": "index.js",
+  "scripts": {
+    "setup-server": "cd server && npm i",
+    "setup-client": "cd client && npm i",
+    "server": "cd server && npm run server",
+    "client": "cd client && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazeefAhmad/Blip-Tech.git"
+  },
+  "author": "Nazeef Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazeefAhmad/Blip-Tech/issues"
+  },
+  "homepage": "https://github.com/NazeefAhmad/Blip-Tech#readme"
+}
